@@ -2,7 +2,7 @@ import streamlit as st
 import numpy as np
 from PIL import Image
 
-st.title("CSRNet Crowd Counting Demo")
+st.title("Hema's CSRNet Crowd Counting Demo")
 
 uploaded_file = st.file_uploader("Upload an image", type=["jpg", "jpeg", "png"])
 
